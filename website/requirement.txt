@@ -1,0 +1,24 @@
+user or admin
+Admin part contains 
+(Done)login part
+(Done)create venues/events part
+(Done)delete event part
+update event part
+(Done)cost determination/creation part
+create history for clients part
+(Done)payment part
+history part(heres the booked event contains qr verification code)
+
+(Done)User register into the system and then log in
+(Done)the system will direct the user to the homepage
+(Done)where there will be buttons for events,payments,view accounts and others
+Present the user with seating layout (VIP and Normal) and each seats has its own qr code
+(Done)User can select either vip or normal
+(Done)validate and approve the payment when user enter username,email,payment amount
+
+Process the unique qr code in the form of a logo that provides user details and paid amount
+
+(Done)Customer parts
+(Done)login and register part
+(Done)view events part
+when history buttons is clicked, the event will be viewable via qr code

@@ -1,0 +1,22 @@
+{
+  "user":[
+    {
+     "id":1,
+     "name":"Muzamil",
+     "email":"1@1.1",
+      "password":"123"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "title is bigger than what you think",
+      "startDate": ""
+    },
+    {
+      "id": 2,
+      "title": "title2",
+      "startDate": ""
+    }
+  ]
+}
